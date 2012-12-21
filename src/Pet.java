@@ -254,6 +254,7 @@ public class Pet extends Ucigame
 		//Initialize window size.
 		window.size(1000, 700);
 		window.title("Pet");
+		
 		framerate(25);	
 		gameElementInitialize();
 		pet = new Animal();		
