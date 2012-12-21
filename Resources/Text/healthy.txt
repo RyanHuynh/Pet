@@ -1,0 +1,28 @@
+broccoli 10 10 3
+Did you know that broccoli is low in
+fat and cholesterol ,and very good
+source of protein,calcium, iron,
+vitamins A and C. Health organizations
+recommend we eat them several times a
+week,because they are linked to lower
+rates of cancer. 
+<end>
+salmon 30 15 3
+Salmon is very good choice of food,
+while it is an excellent source of
+omega-3 fatty acids, it is very low in
+“bad” fats, or saturated fats.Ocean-
+farmed salmon provides as much high-
+quality, complete protein per mouthful
+as chicken, ground beef, pork or tuna.
+<end>
+corn 15 5 2
+Did you know corn was first grown as a
+crop by Native Americans more than 
+7,000 years ago. It is low in saturated 
+fat, low in cholesterol and sodium, and  
+good source of dietary fiber. Eating 
+enough fiber is important for helping to
+prevent chronic diseases like diabetes,
+heart disease and certain types of cancer. 
+<end>

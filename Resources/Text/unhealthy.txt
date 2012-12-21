@@ -1,0 +1,26 @@
+pizza 10 -10 -2
+Did you know pizza may be the most 
+popular food in America, however it is
+really high in sodium and calories. 
+A recent study suggests that cheese on
+your pizza can be a good source of 
+dairy and calcium, however if eating 
+too much may harm your arteries.
+<end>
+potato_Chips 5 -3 -2
+Even though Potato chips has some fiber
+and some vitamins, they are considered 
+bad for your dietary, due to the fact 
+that they are very high in fat, which 
+can cause many health problems.
+<end>
+cake 25 -10 -1
+A good looking and yummy cake is always 
+unresistable. However eating too much 
+cake may be bad for our health since it
+has high in calories due to high amount
+of sugar. Try to choose cakes that will
+help you increase your fruit and 
+vegetable intake such as apple cake,
+banana cake,etc...
+<end>
